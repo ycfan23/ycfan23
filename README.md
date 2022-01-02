@@ -1,6 +1,6 @@
 # Hello! 👋
 
-![GitHub Banner](./images/Banner/1.png)
+![GitHub Banner](./Banner/1.png)
 
 #### **About me**:
 * Recently graduated from Hack Reactor's Advanced Software Immersive Program
@@ -26,7 +26,6 @@
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
 ___
 
 [![Yachao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycfan23&count_private=true&hide=stars&show_icons=true&theme=dracula)](https://github.com/ycfan23/github-readme-stats)
@@ -34,5 +33,8 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycfan23&layout=compact)](https://github.com/ycfan23/github-readme-stats)
 
 ___
-#### Connect with me here!
-[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yachao-fan/)](https://www.linkedin.com/in/yachao-fan/)
+### Connect with me!
+
+<a href="https://twitter.com/yachaofan"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <br>
+<a href="https://www.linkedin.com/in/yachao-fan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
+<a href="mailto:m.ycfan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
