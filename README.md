@@ -1,6 +1,6 @@
 # Hello! 👋
 
-![GitHub Banner](./Banner/1.png)
+![GitHub Banner](./Banner/Banner.png)
 
 #### **About me**:
 * Recently graduated from Hack Reactor's Advanced Software Immersive Program
