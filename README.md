@@ -1,5 +1,6 @@
-# Hi there, I'm Yachao 👋
+# Hi there 👋
 
-- 🔭 I’m currently a student at Hack Reactor's Advanced Software Immersive Program
+My name is Yachao Fan, and I'm a software developer with a background in finance. 
 
-- 📫 How to reach me: m.ycfan23@gmail.com
+
+[![Yachao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycfan23)](https://github.com/ycfan23/github-readme-stats)
