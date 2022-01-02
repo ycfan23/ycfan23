@@ -1,11 +1,38 @@
-# Hi there 👋
+# Hello! 👋
 
-My name is Yachao Fan, and I'm a software developer with a background in finance. 
+![GitHub Banner](./images/Banner/1.png)
 
+#### **About me**:
+* Recently graduated from Hack Reactor's Advanced Software Immersive Program
+* Previously worked in Investment Banking and Investment Management
 
-[![Yachao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycfan23&count_private=true&hide=stars&show_icons=true&theme=dracula)](https://github.com/ycfan23/github-readme-stats) 
+#### **Skills and Experiences**:
+
+#### Languages:
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Databases:
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Frameworks
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+___
+
+[![Yachao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ycfan23&count_private=true&hide=stars&show_icons=true&theme=dracula)](https://github.com/ycfan23/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycfan23&layout=compact)](https://github.com/ycfan23/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ycfan23)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yachaofan)  
+___
+#### Connect with me here!
+[![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yachao-fan/)](https://www.linkedin.com/in/yachao-fan/)
