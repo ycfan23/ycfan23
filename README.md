@@ -2,11 +2,11 @@
 
 ![GitHub Banner](./Banner/Banner.png)
 
-#### **About me**:
+### **About me**:
 * Recently graduated from Hack Reactor's Advanced Software Immersive Program
 * Previously worked in Investment Banking and Investment Management
 
-#### **Skills and Experiences**:
+### **Skills and Experiences**:
 
 #### Languages:
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
