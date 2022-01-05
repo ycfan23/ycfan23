@@ -4,7 +4,9 @@
 
 ### **About me**:
 * Recently graduated from Hack Reactor's Advanced Software Immersive Program
-* Previously worked in Investment Banking and Investment Management
+* Born and raised in China. Moved to the US when I was a teenager and have lived in various parts of the US ever since. Before I caught fire coding, I had previously worked in Investment Banking and Investment Management.
+
+* In my spare time, I enjoy traveling and eating my way around the world as well as boxing, CrossFit and watching historical documentaries.
 
 ### **Skills and Experiences**:
 
