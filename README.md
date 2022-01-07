@@ -3,9 +3,9 @@
 ![GitHub Banner](./Banner/Banner.png)
 
 ### **About me**:
-* Highly analytical, creative, and detail-oriented full-stack software engineer. I have a passion for organizing and analyzing data, then using those findings to build a bigger picture which generates useful insights. Clear and concise communication of these insights is just as critical as discovering them in the first place, and my past careers in Investment Banking and Investment Management have given me a great ability for both.
+* Highly analytical, creative, and detail-oriented full-stack software engineer. I have a passion for organizing and analyzing data, then using those findings to build a bigger picture which generates useful insights. Clear and concise communication of these insights is just as critical as discovering them, and my past careers in Investment Banking and Investment Management have given me a great ability for both.
 
-* Aside from my technical abilities, I am a resourceful problem solver and have successfully leveraged this strength throughout my career in finance. I have a passion for learning and actively seek out opportunities to build on my experience and improve my skillset, as well as stay on top of industry trends and best practices. I am also a highly collaborative and effective communicator – bilingual in both Chinese (Mandarin) and English.
+* Aside from my technical abilities, I am a resourceful problem solver and have successfully leveraged this strength throughout my career in finance. I have a passion for learning and actively seek out opportunities to build on my experience and improve my skillset, as well as staying on current industry trends and best practices. I am also a highly collaborative and effective communicator – bilingual in both Chinese (Mandarin) and English.
 
 * In my spare time, I enjoy traveling around the world as well as boxing, CrossFit and watching historical documentaries.
 
